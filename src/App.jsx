@@ -27,6 +27,14 @@ function App() {
       <br/>
       <img src={imageUrl} alt="" />
       <Title />
+
+      <ul>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+      </ul>
+
+      <h1>This is a simple React App</h1>
       
     </div>
     
